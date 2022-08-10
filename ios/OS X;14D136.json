@@ -1,0 +1,14 @@
+{
+  "osStr": "OS X",
+  "version": "10.10.3",
+  "build": "14D136",
+  "released": "2015-04-16",
+  "uniqueBuild": "14D136",
+  "key": "OS X;14D136",
+  "beta": false,
+  "sortVersion": "10.10.3",
+  "deviceMap": [],
+  "osType": "OS X",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/OS%20X/14D136"
+}

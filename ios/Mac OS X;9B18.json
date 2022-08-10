@@ -1,0 +1,14 @@
+{
+  "osStr": "Mac OS X",
+  "version": "10.5.1",
+  "build": "9B18",
+  "released": "2007-11-15",
+  "uniqueBuild": "9B18",
+  "key": "Mac OS X;9B18",
+  "beta": false,
+  "sortVersion": "10.5.1",
+  "deviceMap": [],
+  "osType": "Mac OS X",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/Mac%20OS%20X/9B18"
+}

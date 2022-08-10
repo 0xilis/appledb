@@ -1,0 +1,21 @@
+{
+  "osStr": "watchOS",
+  "version": "2.1",
+  "iosVersion": "9.2",
+  "build": "13S661",
+  "released": "2015-12-08",
+  "deviceMap": [
+    "Watch1,1",
+    "Watch1,2"
+  ],
+  "uniqueBuild": "13S661",
+  "key": "watchOS;13S661",
+  "beta": false,
+  "sortVersion": "9.2",
+  "osType": "watchOS",
+  "devices": {
+    "Watch1,1": {},
+    "Watch1,2": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/watchOS/13S661"
+}

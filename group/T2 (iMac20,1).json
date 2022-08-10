@@ -1,0 +1,8 @@
+{
+  "name": "T2 (iMac20,1)",
+  "type": "iBridge",
+  "devices": [
+    "iBridge2,19"
+  ],
+  "order": 9
+}

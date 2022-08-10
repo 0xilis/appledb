@@ -1,0 +1,14 @@
+{
+  "osStr": "Mac OS X",
+  "version": "10.2.7",
+  "build": "6R65",
+  "released": "2003-09-22",
+  "uniqueBuild": "6R65",
+  "key": "Mac OS X;6R65",
+  "beta": false,
+  "sortVersion": "10.2.7",
+  "deviceMap": [],
+  "osType": "Mac OS X",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/Mac%20OS%20X/6R65"
+}

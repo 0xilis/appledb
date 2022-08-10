@@ -1,0 +1,14 @@
+{
+  "osStr": "Mac OS X",
+  "version": "10.3.6",
+  "build": "7R28",
+  "released": "2004-11-05",
+  "uniqueBuild": "7R28",
+  "key": "Mac OS X;7R28",
+  "beta": false,
+  "sortVersion": "10.3.6",
+  "deviceMap": [],
+  "osType": "Mac OS X",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/Mac%20OS%20X/7R28"
+}

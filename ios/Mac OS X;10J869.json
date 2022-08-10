@@ -1,0 +1,14 @@
+{
+  "osStr": "Mac OS X",
+  "version": "10.6.7",
+  "build": "10J869",
+  "released": "2011-03-21",
+  "uniqueBuild": "10J869",
+  "key": "Mac OS X;10J869",
+  "beta": false,
+  "sortVersion": "10.6.7",
+  "deviceMap": [],
+  "osType": "Mac OS X",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/Mac%20OS%20X/10J869"
+}

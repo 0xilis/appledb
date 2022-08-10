@@ -1,0 +1,18 @@
+{
+  "osStr": "Beats Studio Buds Firmware",
+  "version": "1A161",
+  "build": "1A161",
+  "deviceMap": [
+    "BeatsStudioBuds1,1"
+  ],
+  "uniqueBuild": "1A161",
+  "key": "Beats Studio Buds Firmware;1A161",
+  "beta": false,
+  "sortVersion": "1A161",
+  "released": -1,
+  "osType": "Beats Studio Buds Firmware",
+  "devices": {
+    "BeatsStudioBuds1,1": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/Beats%20Studio%20Buds%20Firmware/1A161"
+}
